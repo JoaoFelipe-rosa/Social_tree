@@ -45,7 +45,7 @@ a {
     display: grid;
 }
 
-.link_hooks {
+.btn_hooks {
 
     width: 60%;
     padding: 0.5rem;
@@ -61,7 +61,7 @@ a {
     transition: width 0.2s ease-in-out;
 }
 
-.link_hooks:hover {
+.btn_hooks:hover {
     width: 75%;
     color: white;
     background: linear-gradient(to bottom, #bb99dd 0%, #ff99cc 80%);
